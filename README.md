@@ -1,2 +1,3 @@
 # demo-git-github
-# text-nou
+# text-adaugat-din-vscode
+# text-adaugat-din-github
